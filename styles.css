@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    
+}
+
+.container {
+    background: pink;
+    padding: 30px;
+    max-width: 300px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 20px;
+}
+
+button {
+    display: block;
+    background: lightcoral;
+    border: none;
+    margin-bottom: 10px;
+    color: white;
+    padding: 5px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+#count-el {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 60px;
+}
+
+#save-el {
+    font-weight: bold;
+}
